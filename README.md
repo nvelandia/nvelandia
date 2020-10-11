@@ -11,6 +11,7 @@ I want to continue learning, improve my skills, my code of course. To be part of
 Thank you for reading.
 
 Skills
+
 JavaScript | React.js | Redux | Node.js | SQL | Sequelize | Express.js | PostgreSQL | Git | HTML | CSS | Linux | Bootstrap | Material Design | Metodologías Ágiles | React Native | Axios 
 
 Nicolas Velandia
