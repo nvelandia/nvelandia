@@ -6,9 +6,9 @@ I'm from Colombia. But since 2017 I've been living in Buenos Aires, Argentina. H
 So I started my way in this world. This year after I learn for myself, I decide to enter the HENRY academy, startup of development world.
 I studied web development full stack Javascript, with more five months of experience, I've had the chance to immerse myself in some projects to improve my design and code.
 
-I want to continue learning, improve my skills, my code of course. To be part of technological development, because I believe that the future of technology is in our hands.
+I want to continue learning, improve my skills, my code of course. To be part of technological development, because I believe that the future of world is in the hands of the developers.
 
-thank you for reading
+Thank you for reading.
 
 Nicolas Velandia
 
