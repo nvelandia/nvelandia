@@ -12,7 +12,7 @@ Thank you for reading.
 
 Skills
 
-JavaScript | React.js | Redux | Node.js | SQL | Sequelize | Express.js | PostgreSQL | Git | HTML | CSS | Linux | Bootstrap | Material Design | Metodologías Ágiles | React Native | Axios 
+JavaScript | React.js | Redux | Node.js | SQL | Sequelize | Express.js | PostgreSQL | Git | HTML | CSS | Bootstrap | Material Design | Metodologías Ágiles | React Native | Axios 
 
 Nicolas Velandia
 
