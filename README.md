@@ -1,4 +1,4 @@
-Hey! I'm Nicolas Velandia
+<h1>Hey! I'm Nicolas Velandia</h1> 
 
 I'm front-end developer. Right now I'm searching my first job in the IT world.
 
