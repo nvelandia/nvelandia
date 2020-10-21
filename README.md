@@ -16,7 +16,7 @@ JavaScript | React.js | Redux | Node.js | SQL | Sequelize | Express.js | Postgre
 
 Nicolas Velandia
 
-Email: nvelandia97@gmail.com
+Email: nvelandia97@gmail.com <br>
 <a href='https://acortar.link/9d3lM'>Curriculum</a>
 
 
