@@ -15,8 +15,8 @@ Skills :fa-check:
 JavaScript | React.js | Redux | Node.js | SQL | Sequelize | Express.js | PostgreSQL | Git | HTML | CSS | Bootstrap | Material Design | Metodologías Ágiles (Scrum) | React Native | Axios 
 
 Nicolas Velandia
-
-Email: nvelandia97@gmail.com <br> :fa-envelope:
+:fa-envelope:
+Email: nvelandia97@gmail.com <br>
 <a href='https://acortar.link/9d3lM'>Curriculum</a>
 
 
