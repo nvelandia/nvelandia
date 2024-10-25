@@ -13,7 +13,7 @@ Thank you for reading.
 
 :trophy::muscle:  Skills 
 
-JavaScript | React.js | Redux | Node.js | SQL | Sequelize | Express.js | PostgreSQL | Git | HTML | CSS | Bootstrap | Material Design | Metodologías Ágiles (Scrum) | React Native | Axios 
+JavaScript | AWS | React Native | React.js | Php | Node.js | SQL | Git | Metodologías Ágiles (Scrum) 
 
 Nicolas Velandia <br>
 :email: Email: nvelandia97@gmail.com <br>
